@@ -215,6 +215,7 @@ input{
     font-size: medium;
     background-color: #dd4d65;
     border-radius: 5px;
+    border-style: ridge;
 }
 /*footer*/
 
@@ -225,7 +226,7 @@ input{
   
 }
 .footext{
-    padding-left: 700px;
+    padding-left: 600px;
     padding-top: 100px;
     padding-bottom: 100px;
     margin-bottom: 20px;
